@@ -11,5 +11,5 @@ as well as resulting net voltage sensor reading, and net current sensor reading
 Estimates vehicle battery system's SOC (state of charge) with respect to time,
 based off sensor readings for battery pack net voltage and current
 
-![image](https://github.com/Ayushsaha103/2022_Formula-1-Team-of-UC-Davis---My-Programs/assets/71895904/2065d9c3-1619-483f-874a-ec6f2d73830d)
+![image](https://github.com/Ayushsaha103/2022_Formula-1-Team-of-UC-Davis---My-Programs/assets/71895904/2f6ef001-bd4f-4790-bc9f-b738e6a6f516)
 
