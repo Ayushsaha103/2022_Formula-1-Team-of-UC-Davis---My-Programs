@@ -7,7 +7,7 @@ State of Charge Estimation software for our team's vehicle's Battery Management 
 Simulate the current passed to vehicle battery pack w/ respect to time,
 as well as resulting net voltage sensor reading, and net current sensor reading
 
-![image](https://github.com/Ayushsaha103/2022_Formula-1-Team-of-UC-Davis---My-Programs/assets/71895904/b44d955e-e902-49af-96dd-121780934c6a)
+![image](https://github.com/Ayushsaha103/2022_Formula-1-Team-of-UC-Davis---My-Programs/assets/71895904/c46336d9-7594-40bf-9176-0128907ccd50)
 
 
 ### Kalman Filter
